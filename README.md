@@ -5,7 +5,5 @@ Ready for hacktober event
 
 
 ![](giphy.gif)
-
-
-
 https://en.wikipedia.org/wiki/C
+“Live in the present and make it so beautiful that it’s worth remembering.”
