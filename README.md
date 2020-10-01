@@ -12,6 +12,8 @@ Quote: Failures are the stepping stones to success.
 https://en.wikipedia.org/wiki/C
 “Live in the present and make it so beautiful that it’s worth remembering.”
 
+https://hacktoberfest.digitalocean.com/
+
 ## Nicolas Cage Movies
 
 National Treasure
@@ -28,5 +30,3 @@ https://en.wikipedia.org/wiki/C
 
 Hacktober allows the open Source contributors from all over the world to come together and contribute to the Open Source.
 This will help a lot of individuals in different projects whether it is about contributing soemthing or want to be contributed by someone.
-
-
