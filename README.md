@@ -16,12 +16,10 @@ https://hacktoberfest.digitalocean.com/
 
 ## Nicolas Cage Movies
 
-National Treasure
 
-National Treasure: Book of Secrets
-
-Ghost Rider Spirit Of Vengeance
-
+* [National Treasure](https://pt.wikipedia.org/wiki/National_Treasure)
+* [National Treasure: Book of Secrets](https://pt.wikipedia.org/wiki/Ghost_Rider:_Spirit_of_Vengeance)
+* [Ghost Rider Spirit Of Vengeance](https://en.wikipedia.org/wiki/Fast_Times_at_Ridgemont_High)
 * [Fast Times at Ridgemont High](https://en.wikipedia.org/wiki/Fast_Times_at_Ridgemont_High)
 * [Valley Girl](https://en.wikipedia.org/wiki/Valley_Girl_(1983_film))
 * [Rumble Fish](https://en.wikipedia.org/wiki/Rumble_Fish)
