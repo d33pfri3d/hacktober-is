@@ -14,6 +14,11 @@ https://en.wikipedia.org/wiki/C
 
 ## Nicolas Cage Movies
 
+https://en.wikipedia.org/wiki/C
+
+Hacktober allows the open Source contributors from all over the world to come together and contribute to the Open Source.
+This will help a lot of individuals in different projects whether it is about contributing soemthing or want to be contributed by someone.
+
 * [Fast Times at Ridgemont High](https://en.wikipedia.org/wiki/Fast_Times_at_Ridgemont_High)
 * [Valley Girl](https://en.wikipedia.org/wiki/Valley_Girl_(1983_film))
 * [Rumble Fish](https://en.wikipedia.org/wiki/Rumble_Fish)
