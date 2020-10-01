@@ -31,6 +31,9 @@ https://hacktoberfest.digitalocean.com/
 * [Fast Times at Ridgemont High](https://en.wikipedia.org/wiki/Fast_Times_at_Ridgemont_High)
 * [Valley Girl](https://en.wikipedia.org/wiki/Valley_Girl_(1983_film))
 * [Rumble Fish](https://en.wikipedia.org/wiki/Rumble_Fish)
+* [Grand Isle](https://en.wikipedia.org/wiki/Grand_Isle_(2019_film)) 
+* [Running With The Devil](https://en.wikipedia.org/wiki/Running_with_the_Devil)
+* [Color Out Of Space](https://en.wikipedia.org/wiki/Color_Out_of_Space_(film))
 
 https://en.wikipedia.org/wiki/C
 
