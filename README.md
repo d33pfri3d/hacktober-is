@@ -1,2 +1,4 @@
-# hacktober-is
-Just add what you want.
+Ready for hacktober event
+1. join our open source community
+2. complete those given issues or add some new
+3. And win hacktoer event
