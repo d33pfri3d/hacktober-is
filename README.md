@@ -44,3 +44,6 @@ This will help a lot of individuals in different projects whether it is about co
 ## Joke
 Q: What is a programmer's favorite hangout place?
 A: Foo Bar
+
+Q: How many programmers does it take to screw in a light bulb?
+A: None. It's a hardware problem.
