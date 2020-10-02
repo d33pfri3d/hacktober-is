@@ -47,3 +47,23 @@ A: Foo Bar
 
 Q: How many programmers does it take to screw in a light bulb?
 A: None. It's a hardware problem.
+
+## Joke 2
+
+A: I have the perfect son.
+
+B: Does he smoke?
+
+A: No, he doesn't.
+
+B: Does he drink whiskey?
+
+A: No, he doesn't.
+
+B: Does he ever come home late?
+
+A: No, he doesn't.
+
+B: I guess you really do have the perfect son. How old is he?
+
+A: He will be six months old next Wednesday.
