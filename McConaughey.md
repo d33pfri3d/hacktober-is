@@ -1,1 +1,11 @@
-" I believe in living in the present and making each day count. I don’t pay much attention to the past or the future."
+# Matthew McConaughey Quotes
+"I believe in living in the present and making each day count. I don’t pay much attention to the past or the future."
+"You want to be a writer? Start writing. You want to be a filmmaker? Start shooting stuff on your phone right now."
+"If I’m doing something I do like to take it to the limit. I’ve got a high ceiling. A wide threshold for seeing what those boundaries are for myself. I’m very resilient inside. I find things that I like and do and boy, I do like to stick to them"
+"The best education I’ve had in my life is to travel."
+"It’s a scientific fact that gratitude reciprocates."
+"Every hero doesn’t do this great big hero thing. They do the simple thing over and over… and they stick to it."
+"Life’s barely long enough to get good at one thing. So be careful what you get good at."
+"Life is not a popularity contest. Take the hill, but first answer the question: What is my hill?"
+"Life is a series of commas, not periods."
+"Give thanks. Appreciate what you DO have … the more we give thanks, the more we receive to be thankful for. Gratitude is the gift that always gives back."
