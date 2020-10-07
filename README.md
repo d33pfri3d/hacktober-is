@@ -67,3 +67,5 @@ A: No, he doesn't.
 B: I guess you really do have the perfect son. How old is he?
 
 A: He will be six months old next Wednesday.
+
+![](https://media.giphy.com/media/AQpUsaKCRD9gA/giphy.gif)
