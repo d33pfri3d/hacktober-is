@@ -69,3 +69,29 @@ B: I guess you really do have the perfect son. How old is he?
 A: He will be six months old next Wednesday.
 
 ![](https://media.giphy.com/media/AQpUsaKCRD9gA/giphy.gif)
+
+## Movie Quotes
+
+"Frankly, my dear, I don't give a damn." - Gone With the Wind, 1939  
+
+"I'm going to make him an offer he can't refuse." - The Godfather, 1972
+
+Fun fact: This line makes it into each Godfather film in some way or another.
+
+"You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am." - On the Waterfront, 1954
+
+"Toto, I've got a feeling we're not in Kansas anymore." - The Wizard of Oz, 1939
+
+Fun fact: As one of the most famous movie quotes in film history, this line has been parodied by many different movies and television shows.
+
+"Here's looking at you, kid." - Casablanca, 1942Han Solo saying may the force be with you
+
+"Go ahead, make my day." - Sudden Impact, 1983
+
+"All right, Mr. DeMille, I'm ready for my close-up." - Sunset Boulevard, 1950
+
+"May the Force be with you." - Star Wars, 1977
+
+"What we've got here is failure to communicate." - Cool Hand Luke, 1967
+
+"I love the smell of napalm in the morning." - Apocalypse Now, 1979
