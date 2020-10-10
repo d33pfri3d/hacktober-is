@@ -12,7 +12,7 @@
 
 
 - Make neccesary changes
-    - Open README.md and add any new android related projects.
+    - Open README.md and add any new content.
     - If you want to close an issue in your PR, then just reference the issue in your commit message.
     - ``` git commit -m "closing issue #69" ```
 
@@ -23,7 +23,7 @@
 
 
 - Push Changes
-    - ``` git push origin <add-your-branch-name> ```
+    - ``` git push --set-upstream origin master ```
     
 - Submit your changes for review
     - If you go to your repository on GitHub, you'll see a Compare & pull request button. Click on that button.
