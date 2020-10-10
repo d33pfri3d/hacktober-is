@@ -13,13 +13,13 @@
 
 - Make neccesary changes
     - Open README.md and add any new content.
-    - If you want to close an issue in your PR, then just reference the issue in your commit message.
-    - ``` git commit -m "closing issue #69" ```
 
 
 - Commit Changes 
     - ``` git add . ```
-    - ``` git commit -m "commit-message" ```
+    - ``` git commit -m "commit-message" ```\
+    - If you want to close an issue in your PR, then just reference the issue in your commit message.
+    - ``` git commit -m "closing issue #69" ```
 
 
 - Push Changes
