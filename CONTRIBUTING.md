@@ -1,3 +1,5 @@
+# Follow Wheaton's law.
+
 # Contributing Guide
 
 ### Steps to Contribute
