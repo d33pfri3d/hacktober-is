@@ -95,3 +95,24 @@ Fun fact: As one of the most famous movie quotes in film history, this line has 
 "What we've got here is failure to communicate." - Cool Hand Luke, 1967
 
 "I love the smell of napalm in the morning." - Apocalypse Now, 1979
+
+## Tongue Twisters
+
+~Give tuffy a cup of proper coffe in a copper coffe cup.
+
+~She sells seashells by the seashore.
+
+~She saw Sharif's shoes on the sofa. But was she so sure those were Sharif's shoes she saw?
+
+~Betty Botter bought some butter
+But she said the butter’s bitter
+If I put it in my batter, it will make my batter bitter
+But a bit of better butter will make my batter better
+So ‘twas better Betty Botter bought a bit of better butter
+
+~Lesser leather never weathered wetter weather better.
+
+~Peter Piper picked a peck of pickled peppers
+A peck of pickled peppers Peter Piper picked
+If Peter Piper picked a peck of pickled peppers
+Where’s the peck of pickled peppers that Peter Piper picked?
